@@ -17,3 +17,7 @@
 .dropdown-toggle::after{
     display: none;
 }
+
+label.checked{
+    text-decoration: line-through;
+}
